@@ -5,5 +5,11 @@
 - [D3 Chart](https://github.com/ivxivx/FE-d3-chart): A simple charting tool built on top of D3, AlaSQL and Dragula.
 - [IoT App](https://github.com/ivxivx/FE-hybrid-ionic): A hybrid mobile application built on top of Ionic 2, AngularJS 2 and Google Maps.
 
+## Golang
 - [Go Practices](https://github.com/ivxivx/GO-practices): Basic Golang code snippets.
 - [Go Reconciliation](https://github.com/ivxivx/GO-recon): A reconciliation framework.
+
+## Javascript
+- [JS Practices](https://github.com/ivxivx/JS-practices)): Basic Javascript code snippets.
+
+
