@@ -4,7 +4,7 @@
 - [Blockchain](https://github.com/ivxivx/BC-sign-broadcast): Demostrate how to create a blockchain transaction.
 
 ## Javascript
-- [JS Practices](https://github.com/ivxivx/JS-practices)): Basic Javascript code snippets.
+- [JS Practices](https://github.com/ivxivx/JS-practices): Basic Javascript code snippets.
 
 ## ML & AI
 - [Story generator](https://github.com/ivxivx/AI-story-generator): Generate story story text and audio based on user input
