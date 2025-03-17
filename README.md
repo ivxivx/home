@@ -10,6 +10,7 @@
 - [Story Generator](https://github.com/ivxivx/AI-story-generator): Generate story story text and audio based on user input
 - [Web 3 Data Analytics](https://github.com/ivxivx/DA-web3): Contains some practical examples for web3 data analytics, both on-chain and off-chain data
 - [Chatbot](https://github.com/ivxivx/AI-chatbot): An AI chatbot answers questions based on uploaded files, built with LangChain, Hugging Face and Streamlit
+- [Resume Chatbot](https://github.com/ivxivx/AI-resume-chatbot-langchain): A slightly more advanced chat bot intended to answer questions based on uploaded files. For example, you can upload resume then ask questions about the resume.
 - [Machine Learning Practices](https://github.com/ivxivx/ML-practices.git): Contains some practical examples for machine learning
 
 # Frontend
