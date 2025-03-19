@@ -1,7 +1,7 @@
 ## Golang
 - [Go Practices](https://github.com/ivxivx/GO-practices): Basic Golang code snippets
 - [Go Reconciliation](https://github.com/ivxivx/GO-recon): A reconciliation framework
-- [Blockchain](https://github.com/ivxivx/BC-sign-broadcast): Demostrate how to create a blockchain transaction on various networks
+- [Blockchain](https://github.com/ivxivx/BC-sign-broadcast): Demostrate how to create blockchain transactions on various testnets, a working web page (built with HTMX) is available
 
 ## Javascript
 - [JS Practices](https://github.com/ivxivx/JS-practices): Basic Javascript code snippets
