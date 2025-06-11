@@ -10,6 +10,7 @@
 - [JS Practices](https://github.com/ivxivx/JS-practices): Basic Javascript code snippets
 
 ## ML & AI
+- [Readying Notes - Build LLM from Scratch](https://github.com/ivxivx/AI-build-llm-from-scratch): LLM basics, such as tokenization, embedding, attention weight, context vector, multi-head attention.
 - [Story Generator](https://github.com/ivxivx/AI-story-generator): Generate story text and audio based on user input
 - [Chatbot](https://github.com/ivxivx/AI-chatbot): An AI chatbot answers questions based on uploaded files, built with LangChain, Hugging Face and Streamlit
 - [Resume Chatbot](https://github.com/ivxivx/AI-resume-chatbot-langchain): A slightly more advanced chat bot intended to answer questions based on uploaded files. For example, you can upload resume then ask questions about the resume.
