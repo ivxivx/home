@@ -1,15 +1,5 @@
-## Golang
-- [Go Practices](https://github.com/ivxivx/GO-practices): Basic Golang code snippets
-- [Go Reconciliation](https://github.com/ivxivx/GO-recon): A reconciliation framework
-- [Blockchain](https://github.com/ivxivx/BC-sign-broadcast): Demostrate how to create blockchain transactions on various testnets, a working web page (built with HTMX) is available
-
-## Java
-- [Boost](https://github.com/ivxivx/JAVA-boost): A protocol translator, which provides a set of RESTful APIs that allow clients to verify a system's behavior in automated integration test not only through API responses but also by checking the database, Redis, and file system.
-
-## Javascript
-- [JS Practices](https://github.com/ivxivx/JS-practices): Basic Javascript code snippets
-
 ## ML & AI
+-  [AI CS Agent](https://github.com/ivxivx/ai-cs-agent): Customer-service AI agent architecture for crypto/fiat transfer support, covering LangGraph staged workflow, hybrid RAG (SQLite FTS5 + Chroma vector search with fusion), deterministic policy-gated tool orchestration, short/long-term memory persistence in SQLite, FastAPI endpoints for chat and knowledge ingest, MCP-based docs retrieval, and observability signals (latency, token usage, tool events, hallucination risk).
 - [Reading Notes - Build LLM from Scratch](https://github.com/ivxivx/AI-build-llm-from-scratch): LLM basics, such as tokenization, embedding, attention weight, context vector, multi-head attention.
 - [Story Generator](https://github.com/ivxivx/AI-story-generator): Generate story text, audio and image based on user input, run text and audio models on cuda0, and image model on cuda1. Check out demo at
    * [Kaggle](https://www.kaggle.com/code/ivxivx/story-generator) 
@@ -23,6 +13,17 @@
    * [Hugging Face Space](https://huggingface.co/spaces/ivxivx/HF-customer-service-chatbot).
 - [Web 3 Data Analytics](https://github.com/ivxivx/DA-web3): Contains some practical examples for web3 data analytics, both on-chain and off-chain data
 - [Machine Learning Practices](https://github.com/ivxivx/ML-practices.git): Contains some practical examples for machine learning
+
+## Golang
+- [Go Practices](https://github.com/ivxivx/GO-practices): Basic Golang code snippets
+- [Go Reconciliation](https://github.com/ivxivx/GO-recon): A reconciliation framework
+- [Blockchain](https://github.com/ivxivx/BC-sign-broadcast): Demostrate how to create blockchain transactions on various testnets, a working web page (built with HTMX) is available
+
+## Java
+- [Boost](https://github.com/ivxivx/JAVA-boost): A protocol translator, which provides a set of RESTful APIs that allow clients to verify a system's behavior in automated integration test not only through API responses but also by checking the database, Redis, and file system.
+
+## Javascript
+- [JS Practices](https://github.com/ivxivx/JS-practices): Basic Javascript code snippets
 
 # Frontend
 - [D3 Chart](https://github.com/ivxivx/FE-d3-chart): A simple charting tool built on top of D3, AlaSQL and Dragula
